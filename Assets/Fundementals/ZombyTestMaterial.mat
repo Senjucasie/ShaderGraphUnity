@@ -33,8 +33,24 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
+    - _Albedo:
+        m_Texture: {fileID: 2800000, guid: 9ae36402ae4e13f4d8c742a63e434a6c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Metallic:
+        m_Texture: {fileID: 2800000, guid: 7d96e51165f81d64cbfc7a8020540a04, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_ecb0ca069a444fe9ba8873cb7cf2ce03_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 9ae36402ae4e13f4d8c742a63e434a6c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _Texture2D:
         m_Texture: {fileID: 2800000, guid: 3b16a6bb3fb1f4496be76190ff97c981, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _smoothing:
+        m_Texture: {fileID: 2800000, guid: 229f913ceba42a4458418a3f9c880277, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Ints: []
@@ -42,8 +58,12 @@ Material:
     - _Attentuation: 1
     - _BUILTIN_QueueControl: 0
     - _BUILTIN_QueueOffset: 0
+    - _EmissionAmount: 0.452
+    - _SmoothnessAmount: 0.536
     m_Colors:
+    - _Albedo: {r: 0, g: 0, b: 0, a: 0}
     - _Color: {r: 0.9433962, g: 0.3258952, b: 0.1103595, a: 0}
+    - _Emission: {r: 0.5619048, g: 1, b: 0, a: 0}
     - _MainColor: {r: 0.764151, g: 0.39887044, b: 0.39216805, a: 0}
     - _position: {r: 5, g: 10, b: 0, a: 0}
   m_BuildTextureStacks: []
