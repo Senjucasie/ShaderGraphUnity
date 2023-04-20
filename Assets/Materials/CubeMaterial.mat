@@ -75,23 +75,31 @@ Material:
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
+    - _GrassLevel: 0.06
     - _Intensityblue: 1.15
     - _Metallic: 0
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
+    - _RockLevel: 0.22
     - _Scale: 0.16
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _UVSec: 0
+    - _WaterLevel: 0
     - _ZWrite: 1
     - _intensity: 1
     - _positiointensity: 3.94
     - _red: 0.706
+    - _snowLevel: 0.66
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _Grass: {r: 0.34871793, g: 1, b: 0, a: 0}
+    - _Rock: {r: 0.9150943, g: 0.1415806, b: 0.3434947, a: 0}
+    - _Snow: {r: 1, g: 0.9754717, b: 0.9754717, a: 0}
+    - _Water: {r: 0.10484154, g: 0.14962381, b: 0.8962264, a: 0}
     - _bottomcolor: {r: 0.09414271, g: 0.03116761, b: 0.9716981, a: 0}
     - _topcolor: {r: 0.9811321, g: 0.06849409, b: 0.06849409, a: 0}
   m_BuildTextureStacks: []
