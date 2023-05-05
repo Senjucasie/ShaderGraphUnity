@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Spherematerial
-  m_Shader: {fileID: -6465566751694194690, guid: 42f9c606ad0b00444b8a60b3df564b9c, type: 3}
+  m_Name: FresnelMaterial
+  m_Shader: {fileID: -6465566751694194690, guid: 1ff81bbdbd658ef43b5e0e2aa6b9553b, type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords: []
   m_LightmapFlags: 4
@@ -89,10 +89,10 @@ Material:
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
     - _EnvironmentReflections: 1
-    - _Float: 0.163
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
+    - _Intensity: 2.05
     - _Metallic: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.005
@@ -112,7 +112,7 @@ Material:
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.2, g: 0.2, b: 0.2, a: 1}
   m_BuildTextureStacks: []
---- !u!114 &7048143748400605585
+--- !u!114 &5469447515771992772
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
